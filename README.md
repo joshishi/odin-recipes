@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project through which I will practice using html boilerplate to set up a website framework, how to insert links and images appropriately and how to write good commit messages.# odin-recipes
